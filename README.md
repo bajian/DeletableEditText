@@ -1,0 +1,3 @@
+# DeletableEditText
+DeletableEditText使用demo
+自带删除和震动提示
